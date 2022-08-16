@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-const ll mod = 1e9+7;
+
 
 void th(ll n, ll s, ll e, ll h, vector<vector<ll>> &vt){
     if(n == 1) {
